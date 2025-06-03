@@ -5,6 +5,8 @@
   "scripts": {
     "start:frontend": "npx nx serve frontend",
     "start:backend": "npx nx serve backend",
+    "build:frontend": "npx nx build frontend",
+    "build:backend": "npx nx build backend",
     "test": "npx nx test",
     "test:frontend": "npx nx test frontend",
     "test:backend": "npx nx test backend",
